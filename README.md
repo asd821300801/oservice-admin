@@ -1,8 +1,9 @@
 # OService-Admin
 
-<br>
+<br><br>
 
-> 1、基于Spring Boot 2.0 + Shiro + Mybatis 构建的权限系统 <br>
+> 1、基于Spring Boot 2.0 + Shiro + Mybatis 构建的权限系统
+彻底解决SQL注入、XSS等一系列安全问题 <br>
 
 ```
 git clone https://github.com/asd821300801/oservice-admin
@@ -16,7 +17,7 @@ git clone https://github.com/asd821300801/oservice-admin
 git clone https://github.com/asd821300801/oservice-admin-vue.git
 ```
 
-<br><br>
+<br>
 
 # 开始使用
 
